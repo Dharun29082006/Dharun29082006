@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ DHARUN RAMALINGAM
+#   DHARUN RAMALINGAM
 
 ### `Building the future, one line of code at a time.`
 
